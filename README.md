@@ -168,7 +168,7 @@ int main() {
 
 
 ## RESULT:
-Thus the program has been executed by using CUDA to ________________.
+Thus the program has been executed by using CUDA to **Total time taken: 0.158976 milliseconds**
 
 Questions:
 
